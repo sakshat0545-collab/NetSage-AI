@@ -1,27 +1,14 @@
 # 🌐 NetSage AI
 
-### 🤖 AI-Assisted Network Troubleshooting & Diagnosis Platform
+## 🤖 AI-Assisted Network Troubleshooting & Diagnosis Platform
 
-```{=html}
-<p align="center">
-```
-`<strong>`{=html}Evidence • Intelligence • Validation • Human
-Oversight`</strong>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-NetSage AI is an intelligent network troubleshooting platform designed
-to help engineers analyze network incidents, interpret technical
-evidence, validate probable root causes, and review AI-generated
-recommendations before they are accepted.
-```{=html}
-</p>
-```
+> **Evidence • Intelligence • Validation • Human Oversight**
 
-------------------------------------------------------------------------
+NetSage AI is an intelligent network troubleshooting and diagnosis platform designed to assist network engineers in analyzing network incidents, interpreting technical evidence, identifying probable root causes, and reviewing AI-generated recommendations before they are accepted.
+
+The platform combines **AI-assisted diagnosis**, **deterministic rule validation**, and **human review** into a single workflow.
+
+---
 
 ## 🧭 Table of Contents
 
